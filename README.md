@@ -8,18 +8,17 @@ XDBOT is a high-performance, stable, and efficient Python-based automation bot. 
 
 ---
 
-## 👤 Modder Profile
+## 📸 Preview & Interface
 
 <p align="center">
-  <img src="image/photo.jpg" alt="Hax15 Photo" width="200" style="border-radius: 50%;"/>
-  <br>
-  <b>Modded by: @Hax15</b>
+  <img src="https://raw.githubusercontent.com/Hax45-dev/XDBOT-2.208/refs/heads/main/Image/Screenshot_2026-06-07-11-51-27-60.png" alt="XDBOT Interface" width="700"/>
 </p>
 
 ---
 
 ## 🚀 Current Version Specifications
 * **Supported Version:** `2.208` (Fully Optimized)
+* **Modder:** [@Hax15](https://github.com/Hax45-dev)
 * **Status:** Stable & Active
 * **Platform:** Python 3.x
 
