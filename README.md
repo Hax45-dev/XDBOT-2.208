@@ -4,45 +4,56 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Hax45-dev/XDBOT-2.208)
 ![License](https://img.shields.io/github/license/Hax45-dev/XDBOT-2.208?color=blue)
 
-XDBOT adalah bot automasi berbasis Python yang dirancang untuk memberikan kinerja optimal, stabil, dan efisien. Versi ini merupakan pembaruan dan modifikasi khusus untuk memastikan kompatibilitas penuh dengan pembaruan sistem terbaru.
-
-## 🚀 Versi Saat Ini (Current Version)
-* **Support Version:** `2.208`
-* **Modder:** [@Hax15](https://github.com/Hax45-dev)
+XDBOT is a high-performance, stable, and efficient Python-based automation bot. This repository features a specialized modification tailored to ensure full compatibility with the latest system updates.
 
 ---
 
-## 📜 Riwayat Versi (Version History)
+## 👤 Modder Profile
 
-Jika Anda membutuhkan versi terdahulu yang menggunakan basis kode lama, Anda dapat mengaksesnya melalui tautan di bawah ini:
+<p align="center">
+  <img src="image/photo.jpg" alt="Hax15 Photo" width="200" style="border-radius: 50%;"/>
+  <br>
+  <b>Modded by: @Hax15</b>
+</p>
+
+---
+
+## 🚀 Current Version Specifications
+* **Supported Version:** `2.208` (Fully Optimized)
+* **Status:** Stable & Active
+* **Platform:** Python 3.x
+
+## 📜 Version History & Legacy Support
+
+If you are looking for the older core architecture or legacy releases, you can access them via the official link below:
 
 * 📦 **Old Version (v2.207):** [xdBot v2.207 by Zilko](https://github.com/Zilko/xdBot)
 
 ---
 
-## ✨ Fitur Utama (Features)
+## ✨ Features & Enhancements
 
-* **Dukungan Penuh v2.208:** Dioptimalkan secara khusus agar berjalan lancar pada versi 2.208 tanpa kendala.
-* **Perbaikan Bug:** Menambal beberapa masalah crash dan kegagalan fungsi yang ada pada versi lama (2.207).
-* **Performa Lebih Ringan:** Struktur kode telah dibersihkan oleh modder untuk respons yang lebih cepat.
-* **Kemudahan Konfigurasi:** Pengaturan yang mudah dipahami baik untuk pemula maupun pengguna tingkat lanjut.
-
----
-
-## 🛠️ Persyaratan Sistem (Requirements)
-
-Sebelum menjalankan bot ini, pastikan perangkat Anda sudah terinstal:
-* Python 3.8 atau versi yang lebih baru
-* Git (opsional, untuk melakukan kloning repositori)
-* Pip (Manajer paket Python)
+* **Native v2.208 Support:** Re-engineered to adapt perfectly to the 2.208 system environment without breaking existing dependencies.
+* **Bug Fixes:** Patched critical runtime crashes and connection timeout errors present in the older 2.207 framework.
+* **Performance Boost:** Cleaned and refactored bytecode structure for faster execution, reduced memory consumption, and lower latency.
+* **Seamless Configuration:** Simplified user-friendly configuration files for quick deployment.
 
 ---
 
-## 💻 Cara Instalasi & Penggunaan (Installation & Usage)
+## 🛠️ Requirements & Environment
 
-Ikuti langkah-langkah berikut untuk menjalankan XDBOT di perangkat Anda:
+Ensure your system meets the following prerequisites before deployment:
+* **Python:** v3.8 or higher
+* **Package Manager:** `pip` (latest version recommended)
+* **OS:** Linux, Windows, or Android (via Termux/CLI environments)
 
-### 1. Kloning Repositori
+---
+
+## 💻 Installation & Usage Guide
+
+Follow these straightforward steps to set up and deploy XDBOT on your environment:
+
+### 1. Clone the Target Repository
 ```bash
 git clone [https://github.com/Hax45-dev/XDBOT-2.208.git](https://github.com/Hax45-dev/XDBOT-2.208.git)
 cd XDBOT-2.208/tree/main
