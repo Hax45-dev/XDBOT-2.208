@@ -8,7 +8,7 @@ XDBOT is a high-performance, stable, and efficient Python-based automation bot. 
 
 ---
 
-## 📸 Preview & Interface
+## 📸 Old Version Not Working V 2.208
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hax45-dev/XDBOT-2.208/refs/heads/main/Image/Screenshot_2026-06-07-11-51-27-60.png" alt="XDBOT Interface" width="700"/>
